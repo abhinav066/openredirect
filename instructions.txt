@@ -1,0 +1,16 @@
+_______                    ________     _____________                  _____ 
+__  __ \______________________  __ \__________  /__(_)___________________  /_
+_  / / /__  __ \  _ \_  __ \_  /_/ /  _ \  __  /__  /__  ___/  _ \  ___/  __/
+/ /_/ /__  /_/ /  __/  / / /  _, _//  __/ /_/ / _  / _  /   /  __/ /__ / /_  
+\____/ _  .___/\___//_/ /_//_/ |_| \___/\__,_/  /_/  /_/    \___/\___/ \__/  
+       /_/                                           @Abhinav066                      
+                                                   
+Instructions:
+
+1. Run the program.
+2. Enter the domain when prompted.
+3. The program will check for vulnerable URLs and save the results below.
+
+Domain: example.com
+
+Results:
